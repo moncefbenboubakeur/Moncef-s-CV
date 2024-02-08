@@ -1,0 +1,41 @@
+body {
+    background-color: gainsboro;
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+td {
+    vertical-align: top;
+}
+
+h1 {
+        font-weight: 700;
+        line-height: 1.2;
+}
+
+h2 {
+        font-weight: 500;
+        line-height: 1.2;
+        font-weight: bold;
+        /* color: blueviolet; */
+}
+
+.jobs {
+    font-weight: 300;
+    line-height: 1.2;
+    color: rgb(61, 6, 191);
+}
+
+p {
+    font-weight: 100;
+    line-height: 1.2;
+}
+
+
+
+
